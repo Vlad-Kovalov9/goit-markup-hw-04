@@ -297,9 +297,6 @@ margin-left: auto;
  .icons {
    display: flex;
    gap: 24px;
-   padding-top: 8px;
-   padding-left: 16px;
-   padding-right: 16px;
    justify-content: center;
  }
  
@@ -446,7 +443,6 @@ margin-left: auto;
  .container-social {
    align-items: center;
    justify-content: left;
-   margin-left: 120px;
  }
 
  .footer-text {
