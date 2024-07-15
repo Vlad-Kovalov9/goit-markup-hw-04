@@ -48,7 +48,7 @@ img {
    margin: 0 auto;
 }
 
-/* header */
+/* --------header-------- */
 
 .header {
    border-bottom: 1px solid #e7e9fc;
@@ -145,7 +145,7 @@ margin-left: auto;
     color: #404BBF;
 }
 
-/* HERO */
+/* --------HERO-------- */
 
 .hero {
     background-color: #2E2F42;
@@ -197,7 +197,7 @@ margin-left: auto;
    background-color: #404BBF;
  }
  
- /* FEATURES */
+ /* --------FEATURES-------- */
 
 .features {
    padding-top: 120px;
@@ -241,7 +241,7 @@ margin-left: auto;
     color: #434455;
  }
 
-/* TEAM */
+/* --------TEAM --------*/
  
 .team {
    background-color: #F4F4FD;
@@ -326,7 +326,7 @@ margin-left: auto;
    fill: #F4F4FD;
  }
 
-/* PORTFOLIO */
+/* --------PORTFOLIO --------*/
 
 .portfolio {
    padding-top: 120px;
@@ -407,7 +407,7 @@ margin-left: auto;
     color: #434455;
  }
 
- /* FOOTER */
+ /* --------FOOTER------- */
 
  .footer {
     background-color: #2E2F42;
